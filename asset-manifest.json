@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/soisuWebApp/static/js/main.d2664853.js",
+    "index.html": "/soisuWebApp/index.html",
+    "main.d2664853.js.map": "/soisuWebApp/static/js/main.d2664853.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.d2664853.js"
+  ]
+}
