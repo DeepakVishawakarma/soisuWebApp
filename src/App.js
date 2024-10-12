@@ -47,6 +47,7 @@ function App() {
         <Routes>
           <Route path="/" exact element={<Home />} />
           <Route path="/home" exact element={<Home />} />
+          <Route path="/soisuWebApp" exact element={<Home />} />
           <Route path="/productDetails" element={<ProductDetails />} />
           <Route path="/contact" exact element={<Contact />} />
           <Route path="*" element={<Error />} />
