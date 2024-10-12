@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.a240c550.css",
-    "main.js": "/static/js/main.be3c6729.js",
-    "static/media/JK0004A.glb": "/static/media/JK0004A.22169eaff30c11ba99f9.glb",
-    "static/media/AW2310-D.glb": "/static/media/AW2310-D.62ffd06c255887917564.glb",
-    "static/media/JFS25B.glb": "/static/media/JFS25B.99225350b38ee8c07522.glb",
-    "static/media/JFS61.glb": "/static/media/JFS61.bbc038c94d2a6f93794a.glb",
-    "index.html": "/index.html",
-    "main.a240c550.css.map": "/static/css/main.a240c550.css.map",
-    "main.be3c6729.js.map": "/static/js/main.be3c6729.js.map"
+    "main.css": "/soisuWebApp/static/css/main.a240c550.css",
+    "main.js": "/soisuWebApp/static/js/main.41c4bedf.js",
+    "static/media/JK0004A.glb": "/soisuWebApp/static/media/JK0004A.22169eaff30c11ba99f9.glb",
+    "static/media/AW2310-D.glb": "/soisuWebApp/static/media/AW2310-D.62ffd06c255887917564.glb",
+    "static/media/JFS25B.glb": "/soisuWebApp/static/media/JFS25B.99225350b38ee8c07522.glb",
+    "static/media/JFS61.glb": "/soisuWebApp/static/media/JFS61.bbc038c94d2a6f93794a.glb",
+    "index.html": "/soisuWebApp/index.html",
+    "main.a240c550.css.map": "/soisuWebApp/static/css/main.a240c550.css.map",
+    "main.41c4bedf.js.map": "/soisuWebApp/static/js/main.41c4bedf.js.map"
   },
   "entrypoints": [
     "static/css/main.a240c550.css",
-    "static/js/main.be3c6729.js"
+    "static/js/main.41c4bedf.js"
   ]
 }
