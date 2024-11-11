@@ -26,7 +26,6 @@ function ProductList() {
       </h2>
 
       <div
-        key={item.id}
         style={{
           backgroundColor: "lightgreen",
           borderRadius: 20,
