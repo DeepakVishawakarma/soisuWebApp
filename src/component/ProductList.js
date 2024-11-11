@@ -27,7 +27,7 @@ function ProductList() {
 
       <div
         style={{
-          backgroundColor: "lightgreen",
+          backgroundColor: "green",
           display: "flex",
           alignItems: "center",
           justifyContent: "center",
