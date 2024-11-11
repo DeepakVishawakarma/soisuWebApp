@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/soisuWebApp/static/css/main.a240c550.css",
-    "main.js": "/soisuWebApp/static/js/main.e5137543.js",
+    "main.js": "/soisuWebApp/static/js/main.1101191a.js",
     "static/media/JK0004A.glb": "/soisuWebApp/static/media/JK0004A.22169eaff30c11ba99f9.glb",
     "static/media/AW2310-D.glb": "/soisuWebApp/static/media/AW2310-D.62ffd06c255887917564.glb",
     "static/media/JFS25B.glb": "/soisuWebApp/static/media/JFS25B.99225350b38ee8c07522.glb",
     "static/media/JFS61.glb": "/soisuWebApp/static/media/JFS61.bbc038c94d2a6f93794a.glb",
     "index.html": "/soisuWebApp/index.html",
     "main.a240c550.css.map": "/soisuWebApp/static/css/main.a240c550.css.map",
-    "main.e5137543.js.map": "/soisuWebApp/static/js/main.e5137543.js.map"
+    "main.1101191a.js.map": "/soisuWebApp/static/js/main.1101191a.js.map"
   },
   "entrypoints": [
     "static/css/main.a240c550.css",
-    "static/js/main.e5137543.js"
+    "static/js/main.1101191a.js"
   ]
 }
