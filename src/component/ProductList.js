@@ -28,9 +28,9 @@ function ProductList() {
       <div
         style={{
           backgroundColor: "lightgreen",
-          borderRadius: 20,
-          margin: 10,
-          padding: 20,
+          display: "flex",
+          alignItems: "center",
+          justifyContent: "center",
         }}
       >
         <iframe
