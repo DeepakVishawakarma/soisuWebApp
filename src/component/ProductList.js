@@ -1,7 +1,10 @@
-import React from "react";
+import React, { useState } from "react";
 import ProductItem from "./ProductItem";
 
 function ProductList() {
+  const [url, setUrl] = useState(
+    "https://mimnsi.github.io/interactive_scenes_3d_6/demo/assets/data/SOISU/JFS25B.html"
+  );
   const productList = [
     { id: 1, name: "Plain Sofa", image: require("../assets/AW2310-D.glb") },
     { id: 2, name: "Round Sofa", image: require("../assets/JFS25B.glb") },
@@ -21,6 +24,26 @@ function ProductList() {
       >
         Product List
       </h2>
+
+      <div
+        key={item.id}
+        style={{
+          backgroundColor: "lightgreen",
+          borderRadius: 20,
+          margin: 10,
+          padding: 20,
+        }}
+      >
+        <iframe
+          width="600"
+          height="400"
+          src={url}
+          title="Dynamic Iframe"
+          frameBorder="0"
+          allowFullScreen
+        />
+      </div>
+
       <div
         style={{
           marginLeft: 10,
