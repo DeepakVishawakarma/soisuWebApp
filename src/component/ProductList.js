@@ -35,6 +35,7 @@ function ProductList() {
       >
         <iframe
           width="600"
+          height="600"
           src={url}
           title="Dynamic Iframe"
           frameBorder="0"
